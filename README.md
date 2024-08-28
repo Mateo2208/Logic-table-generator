@@ -25,7 +25,7 @@ Welcome to the **Logic Table Generator**! This web application helps you generat
 
 ### Demo 🚀
 Check out the live version of this project on GitHub Pages:
-- [Logic Table Generator](https://Mateo2208.github.io/logic-table-generator/)
+- [Logic Table Generator](https://mateo2208.github.io/Logic-table-generator/)
 
 ### Contributing 🤝
 Feel free to contribute to this project! Fork the repository, make your changes, and submit a pull request.
@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Demo 🚀
 Mira la versión en vivo de este proyecto en GitHub Pages:
-- [Generador de Tablas de Verdad](https://Mateo2208.github.io/logic-table-generator/)
+- [Generador de Tablas de Verdad](https://mateo2208.github.io/Logic-table-generator/)
 
 ### Contribuir 🤝
 ¡No dudes en contribuir a este proyecto! Haz un fork del repositorio, realiza tus cambios y envía una solicitud de pull.
