@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora Lógica</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="calculator">
+        <div class="display">
+            <input type="text" id="equation" placeholder="(X AND Y) OR (NOT Z)" readonly>
+        </div>
+        <div class="buttons">
+            <button onclick="insertSymbol('X')">X</button>
+            <button onclick="insertSymbol('!X')">!X</button>
+            <button onclick="insertSymbol('Y')">Y</button>
+            <button onclick="insertSymbol('!Y')">!Y</button>
+            <button onclick="insertSymbol('Z')">Z</button>
+            <button onclick="insertSymbol('!Z')">!Z</button>
+            <button onclick="insertSymbol('A')">A</button>
+            <button onclick="insertSymbol('!A')">!A</button>
+            <button onclick="insertSymbol('B')">B</button>
+            <button onclick="insertSymbol('!B')">!B</button>
+
+            <button onclick="insertSymbol('AND')">AND</button>
+            <button onclick="insertSymbol('OR')">OR</button>
+            <button onclick="insertSymbol('NOT')">NOT</button>
+            <button onclick="insertSymbol('XOR')">XOR</button>
+            <button onclick="insertSymbol('NAND')">NAND</button>
+            <button onclick="insertSymbol('NOR')">NOR</button>
+            <button onclick="insertSymbol('XNOR')">XNOR</button>
+            
+            <button onclick="insertSymbol('(')">(</button>
+            <button onclick="insertSymbol(')')">)</button>
+            <button class="delete" onclick="deleteLastSymbol()">⌫</button>
+            <button class="equal" onclick="generateTruthTable()">=</button>
+        </div>
+    </div>
+
+    <div class="result-container">
+        <div id="truthTable" class="table-container"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
