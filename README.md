@@ -14,7 +14,7 @@ Welcome to the **Logic Table Generator**! This web application helps you generat
 ### Usage 🛠️
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/yourusername/logic-table-generator.git
+    git clone https://github.com/Mateo2208/logic-table-generator.git
     ```
 2. **Navigate to the project directory**:
     ```bash
@@ -25,7 +25,7 @@ Welcome to the **Logic Table Generator**! This web application helps you generat
 
 ### Demo 🚀
 Check out the live version of this project on GitHub Pages:
-- [Logic Table Generator](https://yourusername.github.io/logic-table-generator/)
+- [Logic Table Generator](https://Mateo2208.github.io/logic-table-generator/)
 
 ### Contributing 🤝
 Feel free to contribute to this project! Fork the repository, make your changes, and submit a pull request.
@@ -49,18 +49,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Uso 🛠️
 1. **Clona este repositorio**:
     ```bash
-    git clone https://github.com/tuusuario/generador-tablas-verdad.git
+    git clone https://github.com/Mateo2208/logic-table-generator.git
     ```
 2. **Navega al directorio del proyecto**:
     ```bash
-    cd generador-tablas-verdad
+    cd logic-table-generator
     ```
 3. **Abre el archivo `index.html` en tu navegador**:
     Simplemente haz doble clic en el archivo y la aplicación se abrirá en tu navegador predeterminado.
 
 ### Demo 🚀
 Mira la versión en vivo de este proyecto en GitHub Pages:
-- [Generador de Tablas de Verdad](https://tuusuario.github.io/generador-tablas-verdad/)
+- [Generador de Tablas de Verdad](https://Mateo2208.github.io/logic-table-generator/)
 
 ### Contribuir 🤝
 ¡No dudes en contribuir a este proyecto! Haz un fork del repositorio, realiza tus cambios y envía una solicitud de pull.
